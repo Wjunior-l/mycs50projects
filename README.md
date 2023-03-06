@@ -1,2 +1,2 @@
 # mycs50projects
-This is what i learned when i did CS50’s Web Programming with Python and JavaScript
+These are my projects i made in CS50's Web Programming with Python and JavaScript
